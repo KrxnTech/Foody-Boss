@@ -1,7 +1,7 @@
 # Food Manager
 
 Food Manager is a full stack recipe management web application where users can add view edit and delete their favorite recipes All recipe data is connected with a MySQL database so every change is stored permanently  
-Name - RecipeVault 🌟
+Name - <b>RecipeVault</b> 🌟
 
 ## Features
 
